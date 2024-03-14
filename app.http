@@ -46,4 +46,6 @@ GET http://localhost:3000/states/10/stats/
 
 ###
 
-GET http://localhost:3000/districts/:districtId/details/
+GET http://localhost:3000/districts/1/details/
+
+###
